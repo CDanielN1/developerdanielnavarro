@@ -1,0 +1,9 @@
+body{
+height: 10000px;
+background-image: url(https://images.alphacoders.com/453/45373.jpg);
+background-size: cover;
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+}
